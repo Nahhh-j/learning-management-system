@@ -1,4 +1,4 @@
-`작성자 : 조나희`
+`작성자 : 조나희` `framework : Django`
 
 ![alt text](Untitled.png)
 
